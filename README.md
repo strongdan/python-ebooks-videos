@@ -1,1 +1,1 @@
-# python-ebooks-videos
+* Packt Publishing Python ebooks and videos
